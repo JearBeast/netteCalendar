@@ -1,0 +1,78 @@
+inflexion:
+	days:
+		0: 
+			1: 'vasárnap'
+			2: 'vasárnap'
+			3: 'vasárnap'
+			4: 'vasárnap'
+			5: 'vasárnap'
+			6: 'vasárnap'
+			7: 'vasárnap'
+		1:
+			1: 'hétfőn'
+			2: 'hétfőn'
+			3: 'hétfőn'
+			4: 'hétfőn'
+			5: 'hétfőn'
+			6: 'hétfőn'
+			7: 'hétfőn'
+		2:
+			1: 'kedden'
+			2: 'kedden'
+			3: 'kedden'
+			4: 'kedden'
+			5: 'kedden'
+			6: 'kedden'
+			7: 'kedden'
+		3:
+			1: 'szerdán'
+			2: 'szerdán'
+			3: 'szerdán'
+			4: 'szerdán'
+			5: 'szerdán'
+			6: 'szerdán'
+			7: 'szerdán'
+		4:
+			1: 'csütörtökön'
+			2: 'csütörtökön'
+			3: 'csütörtökön'
+			4: 'csütörtökön'
+			5: 'csütörtökön'
+			6: 'csütörtökön'
+			7: 'csütörtökön'
+		5:
+			1: 'pénteken'
+			2: 'pénteken'
+			3: 'pénteken'
+			4: 'pénteken'
+			5: 'pénteken'
+			6: 'pénteken'
+			7: 'pénteken'
+		6:
+			1: 'szombaton'
+			2: 'szombaton'
+			3: 'szombaton'
+			4: 'szombaton'
+			5: 'szombaton'
+			6: 'szombaton'
+			7: 'szombaton'
+
+difference:
+	before: 'ezelőtt'
+	yesterday: 'tegnap'
+	today: 'ma'
+	tomorrow: 'holnap'
+	afterTomorrow: 'holnapután'
+	after: ''
+	oneDay: 'nap belül'
+	twoDays: 'napon belül'
+	fiveDays: 'napon belül'
+
+at:
+	0: '' # vasárnap
+	1: '' # hétfőn
+	2: '' # kedden
+	3: '' # szerdán
+	4: '' # csütörtökön
+	5: '' # pénteken
+	6: '' # szombaton

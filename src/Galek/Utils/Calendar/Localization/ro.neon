@@ -1,0 +1,78 @@
+inflexion:
+	days:
+		0: 
+			1: 'duminică'
+			2: 'duminică'
+			3: 'duminică'
+			4: 'duminică'
+			5: 'duminică'
+			6: 'duminică'
+			7: 'duminică'
+		1:
+			1: 'luni'
+			2: 'luni'
+			3: 'luni'
+			4: 'luni'
+			5: 'luni'
+			6: 'luni'
+			7: 'luni'
+		2:
+			1: 'marți'
+			2: 'marți'
+			3: 'marți'
+			4: 'marți'
+			5: 'marți'
+			6: 'marți'
+			7: 'marți'
+		3:
+			1: 'miercuri'
+			2: 'miercuri'
+			3: 'miercuri'
+			4: 'miercuri'
+			5: 'miercuri'
+			6: 'miercuri'
+			7: 'miercuri'
+		4:
+			1: 'joi'
+			2: 'joi'
+			3: 'joi'
+			4: 'joi'
+			5: 'joi'
+			6: 'joi'
+			7: 'joi'
+		5:
+			1: 'vineri'
+			2: 'vineri'
+			3: 'vineri'
+			4: 'vineri'
+			5: 'vineri'
+			6: 'vineri'
+			7: 'vineri'
+		6:
+			1: 'sâmbătă'
+			2: 'sâmbătă'
+			3: 'sâmbătă'
+			4: 'sâmbătă'
+			5: 'sâmbătă'
+			6: 'sâmbătă'
+			7: 'sâmbătă'
+
+difference:
+	before: 'acum'
+	yesterday: 'ieri'
+	today: 'astăzi'
+	tomorrow: 'mâine'
+	afterTomorrow: 'poimâine'
+	after: 'după'
+	oneDay: 'zi'
+	twoDays: 'zile'
+	fiveDays: 'zile'
+
+at:
+	0: 'în' # duminică
+	1: 'în' # luni
+	2: 'în' # marți
+	3: 'în' # miercuri
+	4: 'în' # joi
+	5: 'în' # vineri
+	6: 'în' # sâmbătă
