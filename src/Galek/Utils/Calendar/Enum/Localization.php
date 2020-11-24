@@ -15,11 +15,17 @@ class Localization
 		  SK = 'sk',
 		  PL = 'en',
 		  EN = 'en',
-		  DE = 'en';
+		  DE = 'en',
+		  RO = 'ro',
+		  HU = 'hu';
 
 	public static $list = [
 		self::CZ,
 		self::SK,
 		self::PL,
+		self::EN,
+		self::DE,
+		self::RO,
+		self::HU,
 	];
 }

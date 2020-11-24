@@ -15,7 +15,9 @@ class Country
 		  SK = 'Slovakia',
 		  PL = 'Poland',
 		  DE = 'Germany',
-		  AT = 'Austria';
+		  AT = 'Austria',
+		  RO = 'Romania',
+		  HU = 'Hungary';
 
 	public static $list = [
 		self::CZ,
@@ -23,5 +25,7 @@ class Country
 		self::PL,
 		self::DE,
 		self::AT,
+		self::RO,
+		self::HU,
 	];
 }

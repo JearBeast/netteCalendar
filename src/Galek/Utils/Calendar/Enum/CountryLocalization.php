@@ -17,5 +17,7 @@ class CountryLocalization
 		Country::PL => Localization::PL,
 		Country::DE => Localization::DE,
 		Country::AT => Localization::DE,
+		Country::RO => Localization::RO,
+		Country::HU => Localization::HU,
 	];
 }
