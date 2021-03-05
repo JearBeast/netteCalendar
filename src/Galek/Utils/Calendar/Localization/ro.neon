@@ -69,10 +69,10 @@ difference:
 	fiveDays: 'zile'
 
 at:
-	0: 'în' # duminică
-	1: 'în' # luni
-	2: 'în' # marți
-	3: 'în' # miercuri
-	4: 'în' # joi
-	5: 'în' # vineri
-	6: 'în' # sâmbătă
+	0: '' # duminică
+	1: '' # luni
+	2: '' # marți
+	3: '' # miercuri
+	4: '' # joi
+	5: '' # vineri
+	6: '' # sâmbătă
